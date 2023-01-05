@@ -10,8 +10,8 @@ I'm a Full Stack Developer currently based in Rosario, Argentina.
 - The Tower of Madness: A small RPG for Game Boy about epic fantasy and heroism.
 
 ### 🤔 Some random things about me:
-- I'm an enthusiastic of pixel-art.
 - I made my first website in the 2000s when I was 11-12 years old, using FrontPage and GeoCities, and it was about Dragon Ball.
+- I'm an enthusiastic of pixel-art.
 - I can't stop my mind when it's about creating things.
 - On my twenties I made my first game in RPG Maker about epic fantasy and redemption, called Redemption Saints.
 - My favorite videogame is Commandos.
