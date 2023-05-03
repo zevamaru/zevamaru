@@ -4,14 +4,12 @@ I'm a Full Stack Developer currently based in Rosario, Argentina.
 
 ### ⚡ What I'm working on...
 - [Forfalcon](https://github.com/zevamaru/forfalcon): A Content Management System I made for learning purposes.
-- Doquero: A web application to keep track of stock and inventory for small local stores.
-- zevamaru.com: A kind of diary of my projects and some personal notes.
 - [retrox.ar](https://github.com/zevamaru/retroxar/): My little dungeon of pixel-art where I post assets for indie games.
+- [Text N' Choices](https://github.com/zevamaru/textnchoices/): A basic JavaScript editor for creating "Choose Your Own Adventure" stories.
 - The Tower of Madness: A small RPG for the Game Boy about epic fantasy and heroism.
 
 ### 🤔 Some random things about me:
-- I made my first website in the 2000s when I was 11-12 years old, using FrontPage and GeoCities, and it was about Dragon Ball.
-- I'm an enthusiastic of pixel-art.
+- I made my first website in the 2000s when I was 10-11 years old, using FrontPage and GeoCities, and it was about Dragon Ball.
 - I can't stop my mind when it comes to creating things.
-- On my twenties I made my first game in RPG Maker about epic fantasy and redemption, called Redemption Saints.
+- I'm an enthusiastic of pixel-art and game design.
 - My favorite videogame is Commandos.
