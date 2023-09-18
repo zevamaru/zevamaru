@@ -1,6 +1,6 @@
 ### Hello, I'm Sebastián Cámara 👋
 
-I'm a Full Stack Developer currently based in Rosario, Argentina.
+I'm a software developer currently based in Rosario, Argentina.
 
 ### ⚡ What I'm working on...
 - [Forfalcon](https://github.com/zevamaru/forfalcon): A Content Management System I made for learning purposes.
